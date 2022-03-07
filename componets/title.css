@@ -1,0 +1,12 @@
+h1 { background-color:  #3A4042;
+    text-shadow: 0.3em 0.3em 0.2em black;
+    display: inline-flex;
+    box-shadow: 7px 7px 0px #000;
+    padding: 42px 24px;
+    margin: 43px 19px 4px 97px;
+    
+    font-family:'Press Start 2P' ;
+    color: #13B19E;
+    font-size: 25px;
+    line-height: 40px;
+}
